@@ -3,7 +3,7 @@
 #dan's email address is dodonnellmo@hotmail.coh
 
 #requirement 2 Denton's email
-
+#denton's email is wspdank@yahoo.com
 
 #requirement 3 Jordan's email
 
