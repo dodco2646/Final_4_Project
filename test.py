@@ -4,10 +4,10 @@
 # here's my new email
 
 #requirement 2 Denton's email
-
+#denton's email is wspdank@yahoo.com
 
 #requirement 3 Jordan's email
-
+# jordan's email address is jrmiller24@gmail.com
 
 
 #requirement 4 bill's email
